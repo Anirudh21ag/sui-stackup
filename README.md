@@ -1,1 +1,1 @@
-# sui_stackup
+# sui-stackup
